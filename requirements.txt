@@ -1,0 +1,10 @@
+pyyaml
+ollama
+langchain
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+langchain-community
+chromadb
+pandas
